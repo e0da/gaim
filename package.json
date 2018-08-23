@@ -1,0 +1,7 @@
+{
+  "name": "gaim",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Justin Force <justin.force@gmail.com>",
+  "license": "MIT"
+}
